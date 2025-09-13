@@ -1,0 +1,93 @@
+================================================================================
+SUPPLY CHAIN OPTIMIZATION INSIGHTS REPORT
+================================================================================
+Generated on: 2025-09-13 17:04:40
+
+📋 EXECUTIVE SUMMARY
+------------------------------
+• Total revenue from top 5 products: $67,359.64
+• Average delivery time per carrier: 3.1 days
+• Critical inventory shortages identified: 3 items
+• Best performing carrier: CarrierB
+
+🚚 CARRIER PERFORMANCE ANALYSIS
+----------------------------------------
+• CarrierA:
+  - Express: 3.3 days avg, 100.0% on-time, 3 shipments
+  - Overnight: 3.0 days avg, 0.0% on-time, 1 shipments
+  - Standard: 3.5 days avg, 70.0% on-time, 10 shipments
+  → Overall Average: 3.3 days, 56.7% on-time, 14 total shipments
+
+• CarrierB:
+  - Express: 3.5 days avg, 50.0% on-time, 2 shipments
+  - Overnight: 1.0 days avg, 100.0% on-time, 1 shipments
+  - Standard: 3.8 days avg, 83.3% on-time, 6 shipments
+  → Overall Average: 2.8 days, 77.8% on-time, 9 total shipments
+
+• CarrierC:
+  - Express: 3.2 days avg, 80.0% on-time, 5 shipments
+  - Overnight: 2.4 days avg, 60.0% on-time, 5 shipments
+  - Standard: 3.8 days avg, 75.0% on-time, 4 shipments
+  → Overall Average: 3.1 days, 71.7% on-time, 14 total shipments
+
+🏆 TOP 5 BEST-SELLING PRODUCTS (Last 90 Days)
+--------------------------------------------------
+1. Product P019 (Sports)
+   - Units sold: 59
+   - Revenue: $14,504.56
+   - Unique customers: 8
+2. Product P025 (Sports)
+   - Units sold: 47
+   - Revenue: $22,095.64
+   - Unique customers: 5
+3. Product P001 (Electronics)
+   - Units sold: 32
+   - Revenue: $6,559.68
+   - Unique customers: 5
+4. Product P011 (Home & Garden)
+   - Units sold: 30
+   - Revenue: $11,801.10
+   - Unique customers: 4
+5. Product P021 (Clothing)
+   - Units sold: 29
+   - Revenue: $12,398.66
+   - Unique customers: 5
+
+⚠️  INVENTORY SHORTAGE ANALYSIS
+-----------------------------------
+• Warehouse W01:
+  - Low stock (< 14 days): 1 products
+• Warehouse W02:
+  - Out of stock: 1 products
+  - Low stock (< 14 days): 1 products
+• Warehouse W03:
+• Warehouse W04:
+• Warehouse W05:
+  - Out of stock: 1 products
+• Warehouse W06:
+• Warehouse W07:
+  - Out of stock: 1 products
+  - Low stock (< 14 days): 1 products
+• Warehouse W08:
+• Warehouse W09:
+• Warehouse W10:
+
+💡 KEY RECOMMENDATIONS
+-------------------------
+🚚 Carrier Optimization:
+• Consider renegotiating with CarrierA (lowest on-time: 56.7%)
+• Leverage CarrierB for critical deliveries (best on-time: 77.8%)
+
+🏆 Product Focus:
+• Consider expanding Sports category
+
+⚠️  Urgent Inventory Actions:
+• Immediate restocking required for Warehouse W02
+• Immediate restocking required for Warehouse W05
+• Immediate restocking required for Warehouse W07
+
+📊 VISUALIZATION FILES CREATED:
+-----------------------------------
+• carrier_performance_analysis.png
+• top_products_analysis.png
+• inventory_shortage_analysis.png
