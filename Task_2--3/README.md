@@ -51,6 +51,22 @@ This project delivers a comprehensive inventory management and supply chain opti
 - **Predictive vs. reactive** inventory management
 - **Data-driven supplier negotiations** with carrier performance metrics
 
+## Installation
+
+1. Install required dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+2. Run the inventory restocking system:
+```bash
+python business_process_automation_task2.py
+```
+
+3. Run the supply chain analytics (generates visualizations):
+```bash
+python business_insights_decision_making_task3.py
+```
 
 ## 🔧 **Technical Architecture**
 
