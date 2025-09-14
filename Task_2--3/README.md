@@ -39,7 +39,7 @@ This project delivers a comprehensive inventory management and supply chain opti
 ## 🚀 **Business Impact**
 
 ### **Operational Efficiency**
-- **90% reduction** in manual analysis time
+- **Reduction** in manual analysis time
 - **Seconds vs. hours** for inventory decisions
 
 ### **Financial Optimization**
@@ -90,7 +90,6 @@ python business_insights_decision_making_task3.py
 ### **Carrier Performance Metrics**
 - Average delivery times per carrier
 - On-time delivery percentages  
-- Volume capacity analysis
 - Service level optimization recommendations
 
 ### **Product Performance Analysis**
@@ -100,10 +99,8 @@ python business_insights_decision_making_task3.py
 - Inventory prioritization insights
 
 ### **Warehouse Efficiency Assessment**
-- Stock shortage identification
-- Demand vs. supply gap analysis
-- Days of inventory remaining
-- Critical restock prioritization
+- Stock status distribution by warehouse
+- Product in shortage by warehouse
 
 ## 🏆 **Project Success Metrics**
 
@@ -121,7 +118,7 @@ python business_insights_decision_making_task3.py
 - ✅ Comprehensive supply chain optimization insights
 
 ### **Automation Benefits ✅**
-- ✅ Manual workload reduction (80% time savings)
+- ✅ Manual workload reduction 
 - ✅ Business efficiency improvements
 - ✅ Scalable operations framework
 - ✅ Data-driven decision making
