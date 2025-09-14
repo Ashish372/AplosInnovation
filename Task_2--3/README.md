@@ -131,13 +131,5 @@ python business_insights_decision_making_task3.py
 ### **Potential Extensions**
 - **Machine Learning**: Predictive demand forecasting
 - **Real-time Integration**: API connections to live systems
-- **Mobile Dashboard**: Executive mobile analytics
-- **Advanced Optimization**: Multi-objective inventory optimization
-
-### **Scalability Features**
-- **Multi-tenant Support**: Handle multiple companies
-- **Cloud Deployment**: AWS/Azure integration ready
-- **API Framework**: RESTful service endpoints
-- **Advanced Reporting**: PDF/Excel automated reports
 
 This system demonstrates how modern data analytics can transform traditional inventory management into an intelligent, automated, and highly efficient operation that delivers measurable business value.
