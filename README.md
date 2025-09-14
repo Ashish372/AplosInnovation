@@ -21,7 +21,7 @@ Before designing the ontology, an assessment of the available datasets was perfo
 ### Impact of Data Silos  
 - Lack of cross-functional analysis (e.g., shipment delays affecting inventory).  
 
-**Ontology Response:** Relationships explicitly link customer,  orders, warehouses, inventory, and shipments.  
+**Ontology Response:** Relationships explicitly link customer, orders, product, warehouses, inventory, carrier and shipments.  
 
 ---
 
