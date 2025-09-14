@@ -44,12 +44,8 @@ Before designing the ontology, an assessment of the available datasets was perfo
 - Core entities with attributes and constraints (e.g., non-negative stock, valid email).  
 
 ### b. Relationship Definition  
-- Orders → Shipments, Product  
-- Products → Inventory  
-- Customers → Orders  
-- Shipments → Warehouses & Carriers  
-- Inventory → Warehouses  
-- Warehouses → Carriers  
+![Relationship Definition](Task_1/oa.drawio.png)
+
 
 ### c. Business Rules and Constraints  
 - Composite keys prevent duplication.  
